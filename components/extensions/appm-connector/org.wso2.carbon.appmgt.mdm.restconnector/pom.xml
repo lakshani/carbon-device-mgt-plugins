@@ -133,7 +133,7 @@
             <artifactId>org.wso2.carbon.governance.api</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.wso2.carbon.appmgt</groupId>
+            <groupId>org.wso2.carbon.mobile.devicemgt</groupId>
             <artifactId>org.wso2.carbon.appmgt.mobile</artifactId>
         </dependency>
         <dependency>
